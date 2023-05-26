@@ -5,10 +5,15 @@ This project aims to develop a heart disease prediction system using machine lea
 # Table of Contents
 
 Introduction
+
 Installation
+
 Usage
+
 Data
+
 Model Development
+
 Contributing
 
 # Introduction
